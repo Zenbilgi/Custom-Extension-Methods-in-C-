@@ -17,6 +17,7 @@ class Program {
     int wordCount = text.WordCount();
     Console.WriteLine("The number of words in the variable: " + wordCount);
 
+    // Primitive types
     decimal money = 123m;
     result = ((int)money).IsGreaterThan(500);
     Console.WriteLine("Decimal: " + money + ", Is greater than 5000: " + result);
