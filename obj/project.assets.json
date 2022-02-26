@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/runner/CustomExtensionMethods/main.csproj",
+      "projectUniqueName": "/home/runner/Custom-Extension-Methods-in-C/main.csproj",
       "projectName": "main",
-      "projectPath": "/home/runner/CustomExtensionMethods/main.csproj",
+      "projectPath": "/home/runner/Custom-Extension-Methods-in-C/main.csproj",
       "packagesPath": "/home/runner/.nuget/packages/",
-      "outputPath": "/home/runner/CustomExtensionMethods/obj/",
+      "outputPath": "/home/runner/Custom-Extension-Methods-in-C/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/runner/.nuget/NuGet/NuGet.Config"
